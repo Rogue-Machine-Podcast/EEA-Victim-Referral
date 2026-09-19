@@ -1,6 +1,6 @@
 # EEA Victim Referral
 
-Private litigation repository containing the final EEA victim referral filing materials copied from the Mac Studio source directory. Source files were copied without modification; working drafts and helper artifacts were excluded.
+Document repository containing the final EEA victim referral filing materials. Source files were copied without modification; working drafts and helper artifacts were excluded.
 
 ## Contents
 
@@ -40,9 +40,9 @@ Private litigation repository containing the final EEA victim referral filing ma
 - `UPDATE_FORENSIC_REPORT_2.md`
 - `UPDATE_FORENSIC_REPORT_2.pdf`
 
-CRIMINAL REFERRAL EEA VICTIM REFERRAL Copyright (c) 2026 Brian Spector and Nicola McNamee. All rights reserved.
+CRIMINAL REFERRAL EEA VICTIM REFERRAL Copyright (c) 2026 Brian Spector and Rogue Machine podcast. All rights reserved.
 
-This repository constitutes a criminal referral evidence package submitted to Congressman Cloud's office in February 2026. All content contained in this repository, and all materials, including documents, source files, forensic images, medical records, and email evidence in [this repository](https://github.com/Rogue-Machine-Podcast/EEA-Evidence), are the intellectual property of Brian Spector and Nicola McNamee.
+This repository constitutes a criminal referral evidence package submitted to Congressman Cloud's office in February 2026. All content contained in this repository, and all materials, including documents, source files, forensic images, medical records, and email evidence in [this repository](https://github.com/Rogue-Machine-Podcast/EEA-Evidence), is the intellectual property of Brian Spector.
 
 Licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 
@@ -52,7 +52,7 @@ Share -- copy and redistribute the material in any medium or format
 
 Under the following terms:
 
-Attribution -- You must give appropriate credit to Brian Spector and Nicola McNamee, provide a link to this repository, and indicate if any changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensors endorse you or your use.
+Attribution -- You must give appropriate credit to Brian Spector and Rogue Machine podcast, provide a link to this repository, and indicate if any changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensors endorse you or your use.
 
 NonCommercial -- You may not use the material for commercial purposes.
 
@@ -66,4 +66,4 @@ This repository is published for evidence preservation, public accountability, a
 
 Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
-Contact: Brian Spector | brian@2real.stream
+Contact: Brian Spector | brian@roguemachinepod.com
