@@ -40,7 +40,7 @@ Private litigation repository containing the final EEA victim referral filing ma
 - `UPDATE_FORENSIC_REPORT_2.md`
 - `UPDATE_FORENSIC_REPORT_2.pdf`
 
-CRIMINAL REFERRAL EVIDENCE PACKAGE Copyright (c) 2026 Brian Spector and Nicola McNamee. All rights reserved.
+CRIMINAL REFERRAL EEA VICTIM REFERRAL Copyright (c) 2026 Brian Spector and Nicola McNamee. All rights reserved.
 
 This repository constitutes a criminal referral evidence package submitted to Congressman Cloud's office in February 2026. All content contained in this repository, and all materials, including documents, source files, forensic images, medical records, and email evidence in [this repository](https://github.com/Rogue-Machine-Podcast/EEA-Evidence), are the intellectual property of Brian Spector and Nicola McNamee.
 
